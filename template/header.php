@@ -45,6 +45,7 @@
         </div>
       </div>
     </nav>
+    
     <?php
       if(isset($title) && $title == "Index") {
     ?>
