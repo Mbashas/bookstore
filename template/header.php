@@ -27,7 +27,7 @@
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="index.php">SABLE PAGES</a>
+          <a class="navbar-brand" href="index.php">Reaconn, an online bookstore</a>
         </div>
 
         <!--/.navbar-collapse -->
@@ -51,7 +51,7 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Welcome to SABLE Pages - Your Online Bookstore</h1>
+        <h1>Welcome to Reaconn, an online bookstore </h1>
         <p class="lead">Discover a world of knowledge at our bookstore.</p>
         <p>Immerse yourself in a vast library and find yourself in the pages of countless stories.</p>
       </div>
